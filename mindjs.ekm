@@ -1,0 +1,98 @@
+<EmoMappingModel mappingName="mindjs" >
+    <EmoMapping enabled="1" name="blink" keys="q" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="0" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="winkRight" keys="w" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="2" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="winkLeft" keys="e" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="1" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="lookLeft" keys="t" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="5" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="lookRight" keys="r" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="6" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="raiseBrow" keys="y" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="3" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="furrowBrow" keys="u" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="4" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="smile" keys="i" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="7" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="clench" keys="o" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="8" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="smirkRight" keys="p" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="11" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="smirkLeft" keys="a" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="10" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="laugh" keys="s" sendOnce="1" sendToFocus="1" targetApp="" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="9" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+</EmoMappingModel>

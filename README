@@ -1,0 +1,5 @@
+A really simple jquery library and EmoKey Mapping for using the Emotiv EPOC with javascript.
+
+It just uses key mappings, and it DOES require:
+hotkeys.js
+jquery
