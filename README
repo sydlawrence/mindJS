@@ -3,3 +3,5 @@ A really simple jquery library and EmoKey Mapping for using the Emotiv EPOC with
 It just uses key mappings, and it DOES require:
 hotkeys.js
 jquery
+
+The mapping, mindjs.ekm, needs to be activated in EmoKey
